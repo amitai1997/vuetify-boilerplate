@@ -36,7 +36,6 @@
         </v-card-text>
         <v-card-actions>
           <v-btn color="primary" flat router to="/inspire">Continue</v-btn>
-          <v-btn color="primary" flat router to="/third">Third</v-btn>
         </v-card-actions>
       </v-card>
     </v-flex>

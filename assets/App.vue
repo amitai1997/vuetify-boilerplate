@@ -84,6 +84,7 @@ export default {
         { icon: "apps", title: "Welcome", to: "/" },
         { icon: "bubble_chart", title: "Inspire", to: "/inspire" },
         { icon: "bubble_chart", title: "Third", to: "/third" },
+        { icon: "bubble_chart", title: "Fourth", to: "/fourth" },
       ],
       miniVariant: false,
       right: true,
